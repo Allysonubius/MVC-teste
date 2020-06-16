@@ -172,3 +172,8 @@ C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcorea
 C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes\Details.cshtml.g.cs
 C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes\Edit.cshtml.g.cs
 C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes\Index.cshtml.g.cs
+C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes1\Create.cshtml.g.cs
+C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes1\Delete.cshtml.g.cs
+C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes1\Details.cshtml.g.cs
+C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes1\Edit.cshtml.g.cs
+C:\Users\allys\Documents\Github\MVC-teste\MVC-teste\MVC-teste\obj\Debug\netcoreapp3.1\Razor\Views\Produtoes1\Index.cshtml.g.cs
